@@ -5,7 +5,8 @@ def function_1():
     return None
 
 def function_2(a):
-    return a + a
+    t = a + a
+    return t
 
 def function_3(a, b):
     return a * b
