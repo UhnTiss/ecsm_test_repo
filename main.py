@@ -4,8 +4,8 @@ def function_0():
 def function_1():
     return None
 
-def function_3(factor_1, b):
-    return factor_1 * b
+def method_3(factor_1, factor_2):
+    return factor_1 * factor_2
 
 def method_4(a, b):
     return a - b
