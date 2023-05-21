@@ -7,13 +7,13 @@ def function_1():
 def function_3(a, b):
     return a * b
 
-def function_4(a, b):
+def method_4(a, b):
     return a - b
 
-def function_6(a, b):
+def method_6(a, b):
     return a**b
 
-def function_7(a, b):
+def method_7(a, b):
     return a / b
 
 def method_9(a, b):
