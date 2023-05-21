@@ -15,7 +15,7 @@ def function_4(a, b):
     return a - b
 
 def function_5(a):
-    return a**2
+    return a*a
 
 def function_6(a, b):
     return a**b
@@ -27,7 +27,10 @@ def function_8(a, b):
     return b / a
 
 def function_9(a, b):
-    return b * a
+    t = 0
+    for _ in range(b):
+        t += a
+    return t
 
 def main():
     print("hello world!")
