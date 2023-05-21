@@ -14,9 +14,6 @@ def function_3(a, b):
 def function_4(a, b):
     return a - b
 
-def function_5(a):
-    return a*a
-
 def function_6(a, b):
     return a**b
 
