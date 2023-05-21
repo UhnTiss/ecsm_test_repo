@@ -16,7 +16,7 @@ def function_6(a, b):
 def function_7(a, b):
     return a / b
 
-def function_9(a, b):
+def method_9(a, b):
     t = 0
     for _ in range(b):
         t += a
