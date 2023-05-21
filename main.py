@@ -17,9 +17,7 @@ def method_7(a, b):
     return a / b
 
 def method_9(a, b):
-    result = 0
-    for _ in range(b):
-        result += a
+    result = method_3(b, a)
     return result
 
 def main():
