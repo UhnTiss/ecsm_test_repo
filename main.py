@@ -1,3 +1,5 @@
+def function_0():
+    ...
 
 def main():
     print("hello world!")
