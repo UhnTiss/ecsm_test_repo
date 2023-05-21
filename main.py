@@ -17,10 +17,10 @@ def method_7(a, b):
     return a / b
 
 def method_9(a, b):
-    t = 0
+    result = 0
     for _ in range(b):
-        t += a
-    return t
+        result += a
+    return result
 
 def main():
     print("hello world!")
