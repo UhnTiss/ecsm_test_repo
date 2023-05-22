@@ -1,10 +1,11 @@
 from another_file import method_4, method_6, method_7, method_8, method_9
 
-def function_0():
-    ...
 
 def function_1():
     return None
+
+def function_0():
+    ...
 
 def refactored(number_1, number_2):
     result = 0
