@@ -18,8 +18,7 @@ def refactored(number_1, number_2):
     result = method_9(number_2, number_1) - method_6(result, number_1)
 
     return result
-def two():
-    return 2
+
 def main_function():
     print("Hello world!")
 
@@ -28,3 +27,5 @@ if __name__ == "__main__":
 
 def oneplusone():
     return 1+1
+def fun():
+    return None
