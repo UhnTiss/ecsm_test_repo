@@ -6,20 +6,25 @@ def function_1():
 
 def function_0():
     return None
-
+def one():
+    return 1
 def refactored(number_1, number_2):
     result = 0
 
     for _ in range(method_4(number_1, number_2)):    
         number_4 = method_8()
         result += method_7(result, number_4)
-    
+    i=1
     result = method_9(number_2, number_1) - method_6(result, number_1)
 
     return result
-
-def main():
+def two():
+    return 2
+def main_function():
     print("Hello world!")
 
 if __name__ == "__main__":
-    main()
+    main_function()
+
+def oneplusone():
+    return 1+1
