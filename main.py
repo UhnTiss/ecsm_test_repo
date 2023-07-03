@@ -5,6 +5,7 @@ def function_1():
     return None
 
 def function_0():
+    added_var = 0
     return None
 
 def refactored(number_1, number_2):
